@@ -6,7 +6,7 @@
 
 **Domain:** Data Science
 
-**Duration:** July to August 2024
+**Duration:**August to September 2024
 
 ## CODTECH-Task2
 ## PREDICTIVE MODELING WITH LINEAR REGRESSION
